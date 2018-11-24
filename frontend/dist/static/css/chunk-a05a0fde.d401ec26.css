@@ -1,0 +1,1 @@
+.ui-grid .row div[class^=col]{padding:0}.ui-grid .row div[class^=col] div{display:flex;align-items:center;justify-content:center;text-align:center;margin:.5rem .25rem;min-height:3rem;color:#fff;background-color:#4ae387;border-radius:.5rem}
